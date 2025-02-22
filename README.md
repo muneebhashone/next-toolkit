@@ -78,8 +78,8 @@ next-toolkit/
 │   ├── hooks/                  # Custom React hooks
 │   ├── lib/                    # Utility libraries
 │   ├── services/              
-│   │   ├── auth/              # Authentication services
-│   │   └── user/              # User-related services
+│   │   ├── auth/               # Authentication services
+│   │   └── user/               # User-related services
 │   └── stores/                 # Global state management
 ├── middleware.ts               # Authentication middleware
 └── public/                     # Static assets
