@@ -1,6 +1,6 @@
 # Next Toolkit
 
-A modern Next.js authentication starter kit that integrates seamlessly with [TypeScript Backend Toolkit](https://github.com/muneebhashone/typescript-backend-toolkit). Built with Next.js 14, TypeScript, and Tailwind CSS, this toolkit provides a robust foundation for building secure web applications.
+A modern Next.js authentication starter kit that integrates seamlessly with [TypeScript Backend Toolkit](https://github.com/muneebhashone/typescript-backend-toolkit). Built with Next.js 15, TypeScript, and Tailwind CSS, this toolkit provides a robust foundation for building secure web applications.
 
 ## Key Features
 
@@ -11,7 +11,7 @@ A modern Next.js authentication starter kit that integrates seamlessly with [Typ
   - Password Reset & Recovery
 
 - 🛠️ **Modern Tech Stack**
-  - [Next.js 14](https://nextjs.org/) with App Router
+  - [Next.js 15](https://nextjs.org/) with App Router
   - [TypeScript](https://www.typescriptlang.org/) for type safety
   - [Tailwind CSS](https://tailwindcss.com/) for styling
   - [React Query](https://tanstack.com/query/latest) for data fetching
